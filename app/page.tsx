@@ -719,13 +719,13 @@ export default function Home() {
                     <div className="w-6 h-6 bg-white rounded-full p-1 flex items-center justify-center">
                       <Image
                         src="/img/oqline-technology.jpg"
-                        alt="Oqline Soft Logo"
+                        alt="Exmind Digital Logo"
                         width={20}
                         height={20}
                         className="w-full h-full object-contain rounded-full"
                       />
                     </div>
-                    <span className="text-white font-semibold">Oqline Technology</span>
+                    <span className="text-white font-semibold">Exmind Digital</span>
                   </div>
 
                   <div className="text-gray-500">
@@ -738,7 +738,7 @@ export default function Home() {
                   <p className="text-gray-500 text-xs">
                     Untuk layanan pengembangan website profesional, hubungi:
                     <a href="mailto:astriainternasional@gmail.com" className="text-yellow-400 hover:text-yellow-300 ml-1 font-medium">
-                      Oqline Soft
+                      Exmind Digital
                     </a>
                   </p>
                 </div>
