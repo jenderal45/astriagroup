@@ -718,7 +718,7 @@ export default function Home() {
                   <div className="flex items-center space-x-2 bg-gradient-to-r from-blue-600 to-purple-600 px-3 py-1 rounded-full">
                     <div className="w-6 h-6 bg-white rounded-full p-1 flex items-center justify-center">
                       <Image
-                        src="/img/oqline-technology.jpg"
+                        src="/img/Logo Exmind Digital.jpg.jpg"
                         alt="Exmind Digital Logo"
                         width={20}
                         height={20}
